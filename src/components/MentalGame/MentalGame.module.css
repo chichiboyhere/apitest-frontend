@@ -1,0 +1,26 @@
+.container{
+    padding: 5px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.problem{
+    font-size: 72px;
+    color:blue;
+}
+.test input{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+
+.test h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+.test h2{
+    font-size: 20px;
+}
+
+.test h3{
+    font-size: 18px;
+}
